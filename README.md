@@ -18,25 +18,6 @@ This project implements a virtual keyboard that can be controlled using nose ges
 - Pyperclip
 - NumPy
 
-## Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/nose-and-hand-gesture-keyboard.git
-   cd nose-and-hand-gesture-keyboard
-   ```
-
-2. **Set up a virtual environment** (optional but recommended):
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required packages**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. **Run the script**:
