@@ -1,6 +1,4 @@
-Sure! Here is the complete `README.md` file content with detailed instructions and explanations:
 
-```markdown
 # Nose and Hand Gesture Controlled Virtual Keyboard
 
 This project implements a virtual keyboard that can be controlled using nose gestures for selecting keys and right-hand gestures for pressing them. Utilizing Mediapipe for face and hand tracking, this innovative solution allows for hands-free typing, which can be particularly useful for individuals with limited mobility or for touchless interactions in hygienic environments.
