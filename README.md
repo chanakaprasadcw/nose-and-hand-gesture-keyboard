@@ -1,4 +1,3 @@
-Sure! Here’s the `README.md` file content including detailed code explanations for each section, which you can use for your GitHub project:
 
 ```markdown
 # Nose and Hand Gesture Controlled Virtual Keyboard
